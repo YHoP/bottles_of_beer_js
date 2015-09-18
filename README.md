@@ -2,26 +2,24 @@
 
 ##### "99 Bottles of Beer" is an anonymous United States folk song dating to the mid-20th century.
 
-##### Date of current version: 09/18/15
+#### Date of current version: 09/18/15
 
-#### By **Yvonne Peng**
-
-![alt tag](https://raw.githubusercontent.com/YHoP/bottles_of_beer_js/master/img/screen_hot.png)
-
+### By **Yvonne Peng**
 
 ## Description
 *  If input number is 99, the song's lyrics are as follows:<br>
 99 bottles of beer on the wall, 99 bottles of beer.<br>
 Take one down, pass it around, 98 bottles of beer on the wall...<br>
-...on down to zero. At zero, the final line should read:<br>
+*  ...on down to zero. At zero, the final line should read:<br>
 No more bottles of beer on the wall, no more bottles of beer.<br>
 Go to the store and buy some more, 99 bottles of beer on the wall.<br>
 
+![alt tag](https://raw.githubusercontent.com/YHoP/bottles_of_beer_js/master/img/screen_hot.png)
 
 ## Setup
 
-* Clone this git repository on your computer ```git clone https://github.com/YHoP/bottles_of_beer_js.git ```
-* To open in your browser, navigate to correct directory ```cd path/to/bottles_of_beer_js``` and type ```open bottles_of_beer.html```
+* Clone this git repository on your computer<br> ```git clone https://github.com/YHoP/bottles_of_beer_js.git ```
+* To open in your browser, navigate to correct directory<br> ```cd path/to/bottles_of_beer_js```<br> and type <br>```open bottles_of_beer.html```
 
 
 ## Technologies Used
