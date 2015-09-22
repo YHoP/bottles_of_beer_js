@@ -16,13 +16,13 @@ var noMoreBottleLyrics = function (number){
 var getLyrics = function (number){
   var lyrics = "";
   for (var i = number; i >= 0; i --){
-    if(i === 0){
+    if(i == 0){
       lyrics += firstPartOfLyrics("no more", "s");
       lyrics += noMoreBottleLyrics(number);
-    }else if(i === 1){
+    }else if(i == 1){
       lyrics += firstPartOfLyrics(1, "");
       lyrics += secondPartOfLyrics("no more", "s");
-    }else if(i === 2){
+    }else if(i == 2){
       lyrics += firstPartOfLyrics(i, "s");
       lyrics += secondPartOfLyrics(1, "");
     }else if(i > 2){
